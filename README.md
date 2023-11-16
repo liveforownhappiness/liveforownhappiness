@@ -11,7 +11,7 @@
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=liveforownhappiness&theme=default)](https://easyhomputer.tistory.com)
 
 [ Visit My NPM library ]              
-(https://www.npmjs.com/package/react-native-signup-checkbox)          
+(https://www.npmjs.com/package/react-native-animated-bottomtab)          
 (https://www.npmjs.com/package/react-native-signup-checkbox)          
 
 
