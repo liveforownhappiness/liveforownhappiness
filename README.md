@@ -13,14 +13,10 @@
 (https://www.npmjs.com/package/react-native-animated-bottomtab)  
 (https://www.npmjs.com/package/react-native-signup-checkbox)
 
-# 🔨 now working on 🔨
-
-E - COMMERCE PLATFORM AT WOWPLANET
-
-<img src="sample/project.gif" width="320"></img>
-
 # 🔨 what I've done 🔨
 
-FACE DETECTION PLATFORM AT WOWPLANET
+## FACE DETECTION PLATFORM AT WOWPLANET
 
-<img src="sample/rtmp.gif" width="320"></img>
+|                                               |          |
+| --------------------------------------------- | -------- |
+| <img src="sample/rtmp.gif" width="320"></img> | by Using |
