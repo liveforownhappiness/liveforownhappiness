@@ -21,8 +21,8 @@
 | --------------------------------------------- | -------------------------------------------------------------------------------- |
 | <img src="sample/rtmp.gif" width="320"></img> | React Native<br> Sock JS<br>Rtmp<br>External display<br>Zustand<br>Vision Camera |
 
-## SNS PLATFORM AT ANYCHAT
+<!-- ## SNS PLATFORM AT ANYCHAT
 
 |                                               |                                                                                       |
 | --------------------------------------------- | ------------------------------------------------------------------------------------- |
-| <img src="sample/rtmp.gif" width="320"></img> | React Native<br> Socket IO <br>Restful Api<br>Redux<br>Redux toolkit<br>|
+| <img src="sample/rtmp.gif" width="320"></img> | React Native<br> Socket IO <br>Restful Api<br>Redux<br>Redux toolkit<br>| -->
