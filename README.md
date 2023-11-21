@@ -17,9 +17,15 @@
 
 ## FACE DETECTION PLATFORM AT WOWPLANET
 
-|                                               |                                                                                  |
-| --------------------------------------------- | -------------------------------------------------------------------------------- |
-| <img src="sample/rtmp.gif" width="320"></img> | React Native<br> Sock JS<br>Rtmp<br>External display<br>Zustand<br>Vision Camera |
+|                                               |                                                                                 |
+| --------------------------------------------- | ------------------------------------------------------------------------------- |
+| <img src="sample/rtmp.gif" width="320"></img> | React Native<br>Sock JS<br>Rtmp<br>External display<br>Zustand<br>Vision Camera |
+
+## SNS and Voting PLATFORM AT ANYCAT (For 34th World Miss University)
+
+|                                                     |                                                     |                                                                           |
+| --------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------- |
+| <img src="sample/AnyStory00.png" width="320"></img> | <img src="sample/AnyStory01.png" width="320"></img> | React Native<br> Redux<br>AsyncStorage<br>Socekt io<br>Restful Api <br>S3 |
 
 <!-- ## SNS PLATFORM AT ANYCHAT
 
