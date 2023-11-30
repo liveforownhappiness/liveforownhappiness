@@ -13,15 +13,17 @@
 (https://www.npmjs.com/package/react-native-animated-bottomtab)  
 (https://www.npmjs.com/package/react-native-signup-checkbox)
 
-<!--
-# 🔨 now Working on 🔨
+
+# 🔨 recently working on 🔨
 
 ## FACE DETECTION PLATFORM AT WOWPLANET
+### [ service link ]  (https://youtu.be/Pl73CpnwTrE?si=CJ7YrUa16u4VXwhQ) 
 
 |                                               |                                                                                 |
 | --------------------------------------------- | ------------------------------------------------------------------------------- |
-| <img src="sample/rtmp.gif" width="320"></img> | React Native<br>Sock JS<br>Rtmp<br>External display<br>Zustand<br>Vision Camera |
--->
+| <img src="sample/sample.gif" width="640"></img> | React Native<br>Sock JS<br>Rtmp<br>External display<br>Zustand<br>Vision Camera |
+
+ 
 <!--
 ## SNS and Voting PLATFORM AT ANYCAT (For 34th World Miss University)
 
