@@ -20,11 +20,16 @@
 ### [ service link ]  (https://youtu.be/Pl73CpnwTrE?si=CJ7YrUa16u4VXwhQ) 
 
 
-### [ video ]
+<!-- ### [ video ]
 https://github.com/liveforownhappiness/liveforownhappiness/assets/61953281/6952993e-2487-428e-9119-b7dc7af89c65
 
 ### [ using ]
- React Native<br>Sock JS<br>Rtmp<br>External display<br>Zustand<br>Vision Camera 
+ React Native<br>Sock JS<br>Rtmp<br>External display<br>Zustand<br>Vision Camera  -->
+
+ |                                                     |                                                     |                                                                           |
+| --------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------- |
+|  [ video ]| [ using ]
+| <video src="https://github.com/liveforownhappiness/liveforownhappiness/assets/61953281/6952993e-2487-428e-9119-b7dc7af89c65" width="320"></video> |    React Native<br>Sock JS<br>Rtmp<br>External display<br>Zustand<br>Vision Camera  |
 
  
 <!--
