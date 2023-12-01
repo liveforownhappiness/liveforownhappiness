@@ -19,9 +19,12 @@
 ## FACE DETECTION PLATFORM AT WOWPLANET
 ### [ service link ]  (https://youtu.be/Pl73CpnwTrE?si=CJ7YrUa16u4VXwhQ) 
 
-|                                               |                                                                                 |
-| --------------------------------------------- | ------------------------------------------------------------------------------- |
-| <img src="sample/sample.gif" width="640"></img> | React Native<br>Sock JS<br>Rtmp<br>External display<br>Zustand<br>Vision Camera |
+
+### [ video ]
+https://github.com/liveforownhappiness/liveforownhappiness/assets/61953281/6952993e-2487-428e-9119-b7dc7af89c65
+
+### [ using ]
+ React Native<br>Sock JS<br>Rtmp<br>External display<br>Zustand<br>Vision Camera 
 
  
 <!--
