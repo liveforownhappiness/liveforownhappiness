@@ -13,12 +13,11 @@
 (https://www.npmjs.com/package/react-native-animated-bottomtab)  
 (https://www.npmjs.com/package/react-native-signup-checkbox)
 
-
 # 🔨 recently working on 🔨
 
 ## FACE DETECTION PLATFORM AT WOWPLANET
-### [ service link ]  (https://youtu.be/Pl73CpnwTrE?si=CJ7YrUa16u4VXwhQ) 
 
+### [ service link ] (https://youtu.be/Pl73CpnwTrE?si=CJ7YrUa16u4VXwhQ)
 
 <!-- ### [ video ]
 https://github.com/liveforownhappiness/liveforownhappiness/assets/61953281/6952993e-2487-428e-9119-b7dc7af89c65
@@ -26,12 +25,11 @@ https://github.com/liveforownhappiness/liveforownhappiness/assets/61953281/69529
 ### [ using ]
  React Native<br>Sock JS<br>Rtmp<br>External display<br>Zustand<br>Vision Camera  -->
 
- |                                                     |                                                     |                                                                           |
-| --------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------- |
-|  [ video ]| [ using ]
-| <video src="https://github.com/liveforownhappiness/liveforownhappiness/assets/61953281/6952993e-2487-428e-9119-b7dc7af89c65" width="320"></video> |    React Native<br>Sock JS<br>Rtmp<br>External display<br>Zustand<br>Vision Camera  |
+|                                                                                                                                                            |                                                                                 |     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | --- |
+| [ video ]                                                                                                                                                  | [ using ]                                                                       |
+| <video src="https://github.com/liveforownhappiness/liveforownhappiness/assets/61953281/6952993e-2487-428e-9119-b7dc7af89c65" width="320" autoplay></video> | React Native<br>Sock JS<br>Rtmp<br>External display<br>Zustand<br>Vision Camera |
 
- 
 <!--
 ## SNS and Voting PLATFORM AT ANYCAT (For 34th World Miss University)
 
