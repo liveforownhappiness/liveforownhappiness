@@ -14,6 +14,11 @@
 
 # 🔨 recently working on 🔨
 
+## E-COMMERCE PLATFORM AT WOWPLANET
+
+### [ ANDROID ] ([https://youtu.be/Pl73CpnwTrE?si=CJ7YrUa16u4VXwhQ](https://play.google.com/store/apps/details?id=io.wowplanet))
+### [ IOS ] ([https://youtu.be/Pl73CpnwTrE?si=CJ7YrUa16u4VXwhQ](https://apps.apple.com/kr/app/brandip/id6467340958))
+
 ## FACE DETECTION PLATFORM AT WOWPLANET
 
 ### [ service link ] (https://youtu.be/Pl73CpnwTrE?si=CJ7YrUa16u4VXwhQ)
