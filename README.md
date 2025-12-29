@@ -6,6 +6,8 @@ https://liveforownhappiness.tistory.com/
 
 https://www.npmjs.com/package/react-native-glitter
 
+https://www.npmjs.com/package/react-native-puff-pop
+
 https://www.npmjs.com/package/react-native-animated-bottomtab
 
 https://www.npmjs.com/package/react-native-skia-example
